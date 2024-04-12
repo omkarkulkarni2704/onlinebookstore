@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Book implements Serializable {
 
     private String barcode;
-    private String name;
+    private String name; 
     private String author;
     private double price;
     private int quantity;
